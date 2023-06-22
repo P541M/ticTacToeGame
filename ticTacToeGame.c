@@ -10,6 +10,8 @@ int main(){
     char winner = ' ';
     char userChoice;
 
+    printf("\nTIC-TAC-TOE GAME\n\n");
+
     do
     {
         winner = ' ';
